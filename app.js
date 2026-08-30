@@ -43,6 +43,14 @@ app.use(
   }),
 );
 app.use(express.json());
+
+app.get("/", (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: "Library API Server is running smoothly!",
+  });
+});
+
 app.use("/api/auth/", authRoute);
 app.use("/api/catalog", catalogRoutes);
 app.use("/api/shelves", shelfRoutes);
