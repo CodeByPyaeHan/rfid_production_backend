@@ -2,28 +2,29 @@
     {
         "username": "@crackyshine",
         "name": "CrackyShine",
-        "email": "crackyshine@gmail.com",
+        "email": "noxkagestz@gmail.com",
         "password": "crackyshine",
         "role": "ADMIN"
     },
     {
-        "username": "@pyaehan",
+        "username": "@pyaehanthaw",
         "name": "PyaeHanThaw",
-        "email": "pyae@gmail.com",
-        "password": "crackyshine",
+        "email": "shshdhdhchfhdhdh@gmail.com",
+        "password": "pyaehanthaw",
         "role": "ADMIN"
     },
     {
-        "username": "@han",
-        "name": "HanThaw",
-        "email": "hanthaw@gmail.com",
-        "password": "crackyshine",
+        "username": "@aungkowin",
+        "name": "Aung Ko Win",
+        "email": "sayarnicko@gmail.com",
+        "password": "aungkowin",
         "role": "ADMIN"
     },
     {
-        "username": "@shinewai",
-        "name": "Shine Wai Oo",
-        "password": "crackyshine",
+        "username": "@amyaung",
+        "name": "Dr. Amy Aung",
+        "email": "amyaung78@gmail.com",
+        "password": "amyaung",
         "role": "ADMIN"
     }
 ]
