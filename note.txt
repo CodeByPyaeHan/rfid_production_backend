@@ -1,0 +1,24 @@
+
+// excel import 
+
+// Flow 
+Frontend (React)
+    ↓ upload excel
+Backend (Express)
+    ↓ multer (receive file)
+    ↓ xlsx (parse excel → json)
+    ↓ mapping (json → marc_json)
+    ↓ mongoose (save to MongoDB)
+
+// Installation 
+# npm install express multer xlsx mongoose dotenv
+
+
+
+// jobs 
+dueSoonReminder_job.js - စာအုပ်ငှားထားသူတွေရဲ့ စာအုပ်ပြန်အပ်ရမည့် ရက်လွန်ခါနီးပါက (Due Soon) နေ့စဉ် မနက် ၈:၀၀ နာရီတိုင်း အလိုအလျောက် Reminder Notification ပို့ပေးမည့်
+overdueReminder_job.js - overdue ဖြစ်ပါက မနက် ၈ ခွဲ တိုင်း မှာ noti ပို့ 
+reservationExourt_job.js - ready_for_pickup ဖြစ်တဲ့အခါ hold day ရက်ကြော်လွန် သွားပါက ရက်လွန် ကြောင်း noti ပို့ 
+
+other noti - 
+ return book လာတဲ့ အခါ  ဆောင်ရတဲ့ fine ကြေး အတွက် user သို့ noti 

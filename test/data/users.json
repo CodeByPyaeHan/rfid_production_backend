@@ -1,0 +1,29 @@
+[
+    {
+        "username": "@crackyshine",
+        "name": "CrackyShine",
+        "email": "crackyshine@gmail.com",
+        "password": "crackyshine",
+        "role": "ADMIN"
+    },
+    {
+        "username": "@pyaehan",
+        "name": "PyaeHanThaw",
+        "email": "pyae@gmail.com",
+        "password": "crackyshine",
+        "role": "ADMIN"
+    },
+    {
+        "username": "@han",
+        "name": "HanThaw",
+        "email": "hanthaw@gmail.com",
+        "password": "crackyshine",
+        "role": "ADMIN"
+    },
+    {
+        "username": "@shinewai",
+        "name": "Shine Wai Oo",
+        "password": "crackyshine",
+        "role": "ADMIN"
+    }
+]

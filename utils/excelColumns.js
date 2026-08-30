@@ -1,0 +1,35 @@
+const COL = {
+  accession: "တိုက်ပိုင်အမှတ်",
+  date: "နေ့စွဲ",
+  author: "စာရေးသူ",
+  title: "စာအုပ်အမည်",
+  pubPlace: "နေရာ",
+  publisher: "ထုတ်‌ဝေသူ",
+  edition: "ပုံနှိပ်အကြိမ်",
+  year: "ခုနှစ်",
+  price: "တန်ဖိုး",
+  classNumber: "မျိုးတူစု\r\nအမှတ်",
+  shelfLoc: "ဘီဒို အမှတ်",
+  acquired_method: "မည်ကဲ့သို့ရရှိ\r\nသည်",
+  note: "မှတ်ချက်",
+  subtitle: "ခေါင်းစဉ်ငယ်",
+  authorRole:
+    "စာရေးသူ၊ ဘာသာပြန်သူ ၊ တည်းဖြတ်သူ၊ စီစဉ်သူ/စုစည်းသူ၊ ပုံဆွဲသူ၊ မေးမြန်းသူ ",
+  author2: "ဒုတိယစာရေးသူ",
+  author3: "တတိယစာရေးသူ",
+  pages: "စာမျက်နှာ",
+  illus: "ပုံများ",
+  dimensions: "အရွယ်အစား",
+  seriesTitle: "စာစဉ်အမည်",
+  isbn_number: "စာစဉ်အမှတ်",
+  genNote: "အထွေထွေမှတ်စုများ",
+  bibNote: "ကျမ်း။ အညွှန်းများပါခဲ့လျှင် ဖြည့်ပေးရမည်",
+  ebook_url: "URl link သို့မဟုတ် eresource link ",
+  keywords: "အဓိကစကားလုံးများ ",
+  itemType: "Item Type (စာအုပ် သို့ CD/DVD)",
+  loanPolicy: "ငှား ၊ မငှား",
+};
+
+module.exports = {
+  COL,
+};

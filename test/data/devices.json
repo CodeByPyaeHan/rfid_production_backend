@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "6a89aaf987d2a6eae30e48ad",
+        "name": "Main_Kiosk_1",
+        "mac_address": "DE:AD:BE:EF:FE:ED"
+    },
+    {
+        "_id": "6a89aaf987d2a6eae30e48af",
+        "name": "Library_Gate_1",
+        "mac_address": "DE:AD:BE:EF:FE:01"
+    }
+]
